@@ -1,6 +1,6 @@
 # J-Suno Tool 🎵
 
-**🚀 [アプリを使ってみる (ここをクリック)](https://j-suno-tool.streamlit.app/)**
+**🚀 [アプリを使ってみる (ここをクリック)](https://suno-app-tool.streamlit.app/)**
 
 Suno AIのための「日本語プロンプト」を自動生成するツールです。
 頭の中のイメージを日本語で入力するだけで、Suno AIに最適な「英語プロンプト（Style & Lyrics）」を一瞬で作ります。
