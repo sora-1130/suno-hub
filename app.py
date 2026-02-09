@@ -257,5 +257,7 @@ with tab_edit:
     
     次回の大型アップデートをお待ちください！
     """)
+
+    # Final Update: 2026-02-09
     
     st.image("https://media.giphy.com/media/aw61sTqyJ9aHm/giphy.gif", use_column_width=True, caption="Development in progress...")
